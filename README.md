@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Leave Management System
 
 more free projects - https://projectworlds.in
@@ -47,3 +48,6 @@ The **ADMIN MANAGEMENT** CONSOLE consists of the following features:
   3. Mailing the leave grant/reject status along with the reason to the client’s
   registered email address.
   4. Seeing the type of leaves sanctioned by him/her to the client
+=======
+# Employee-Leave-Management-System
+>>>>>>> eb9bb0b25c14dff407f69357c04f5d463a893d3e
